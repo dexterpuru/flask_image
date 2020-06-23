@@ -1,4 +1,3 @@
-import psycopg2
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
