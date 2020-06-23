@@ -10,4 +10,4 @@ DEBUG = True
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = "postgresql://postgres:puru2000@localhost/image_db"
+SQLALCHEMY_DATABASE_URI = "postgresql://<Username>:<Password>@<PORT>/<database_name>"
